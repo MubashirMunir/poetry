@@ -10,7 +10,7 @@ class omboarding extends StatefulWidget {
 
 class _omboardingState extends State<omboarding> {
   @override
-  late PageController _controller;
+  late PageController _controllerTest;
 
   var currentIndex = 0;
   @override
